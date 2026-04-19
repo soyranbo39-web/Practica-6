@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica6</string>
+    <string name="title">DatePicker y TimePicker</string>
+    <string name="date_label">Fecha seleccionada</string>
+    <string name="time_label">Hora seleccionada</string>
+    <string name="pick_date">Seleccionar fecha</string>
+    <string name="pick_time">Seleccionar hora</string>
+    <string name="selected_date_default">Fecha seleccionada: --/--/----</string>
+    <string name="selected_time_default">Hora seleccionada: --:--</string>
+    <string name="selected_date_value">Fecha seleccionada: %1$s</string>
+    <string name="selected_time_value">Hora seleccionada: %1$s</string>
+</resources>

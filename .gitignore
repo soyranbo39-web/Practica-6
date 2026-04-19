@@ -198,6 +198,14 @@ publish/
 # Publish Web Output
 *.[Pp]ublish.xml
 *.azurePubxml
+
+# Android Studio / Gradle
+.gradle/
+build/
+**/build/
+local.properties
+.idea/
+*.iml
 # Note: Comment the next line if you want to checkin your web deploy settings,
 # but database connection strings (with potential passwords) will be unencrypted
 *.pubxml
