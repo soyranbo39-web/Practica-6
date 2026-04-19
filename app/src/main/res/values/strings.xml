@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Practica6</string>
     <string name="title">DatePicker y TimePicker</string>
@@ -11,3 +11,4 @@
     <string name="selected_date_value">Fecha seleccionada: %1$s</string>
     <string name="selected_time_value">Hora seleccionada: %1$s</string>
 </resources>
+
